@@ -1,5 +1,5 @@
-### Hi there 👋, I'm Angela
-#### Student at JavaScript Development Academy
+## Hi there 👋, I'm Angela
+### Student at JavaScript Development Academy
 
 Skills: HTML5, CSS, JavaScript, Node.js, MongoDB, Git
 
