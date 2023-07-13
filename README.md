@@ -1,19 +1,11 @@
-### Hi there, I'm Angela!👋
+### Hi there 👋, I'm Angela
+#### Student at JavaScript Development Academy
+![Student at JavaScript Development Academy](https://images.creativemarket.com/0.1.0/ps/7599382/580/386/m1/fpnw/wm0/programming-line-art-banner-02-.jpg?1579167779&s=76425686c8d8f45c1bc44c07ae8b370d)
 
 
-👩🏻‍💻 About Me
+Skills: HTML5, CSS, JavaScript, Node.js, MongoDB, Git
 
-- 🎓   I’m currently a student on JavaScirpt Development Academy
-- 🔭   Exploring and learning more about various technologies
-- 🤔   I'm looking for an new career opportunity 
-
-
-⚙️ Tech Stack 
-
-→ HTML5, CSS, JavaScript
-
-→ Node.js, MongoDB
-
-→ Git, GitHub
-
-→ Visual Studio Code
+- 🌱 I’m currently learning Web Services & APIs 
+- 🤔 I’m looking for help with finding an internship 
+- 💬 Ask me about #JavaScript, #NodeJS 
+- 📫 How to reach me: antovaangela@gmail.com 
