@@ -1,5 +1,5 @@
 # Hi there, I'm Angela 👋
-### Student at JavaScript Development Academy
+### Student at SEMOS - "JavaScript Developer of web applications" Academy
 
 #### ⚙️ Skills: 
 - Languages: HTML5, CSS, JavaScript, Node.js
