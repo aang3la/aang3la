@@ -10,7 +10,7 @@
 
 
 #### About Me: 
-- 🌱 I’m currently learning Web Services & APIs 
+- 🌱 I’m currently learning React
 - 🤔 I’m looking for help with finding an internship 
 - 💬 Ask me about #JavaScript, #NodeJS 
 - 📫 How to reach me: antovaangela@gmail.com 
