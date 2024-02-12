@@ -1,9 +1,8 @@
 # Hi there, I'm Angela 👋
-### Student at SEMOS - "JavaScript Developer of web applications" Academy
+### JavaScript Developer of web applications
 
 #### ⚙️ Skills: 
 - Languages: HTML5, CSS, JavaScript
-- Libraries: Node.js, React.js 
-- Databases: MongoDB
+- Libraries/Frameworks: Node.js, React, Express.js
 - Tools: Visual Studio Code, Postman, Slack
-- Open Source: Git, GitHub
+- Version Control: Git, GitHub
