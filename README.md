@@ -3,6 +3,7 @@
 
 #### ⚙️ Skills: 
 - Languages: HTML5, CSS, JavaScript
-- Libraries/Frameworks: Node.js, React, Express.js
-- Tools: Visual Studio Code, Postman, Slack
+- Libraries/Frameworks: React, TypeScript, Node.js, Express.js
+- Storage: MongoDB, NoSQL database
+- Tools: Visual Studio Code, Postman, Slack, Jira
 - Version Control: Git, GitHub
